@@ -1,0 +1,54 @@
+
+#profile_wrapper{
+    text-align: center;
+    background-color: blanchedalmond;
+    border: purple 2px solid;
+}
+#profile_pic{
+    height: 200px;
+    width: 200px;
+    border: black;
+    border-radius: 50%;
+    margin: auto;
+}
+#job{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+ul{
+    padding: 0px;
+    list-style-type: none;
+    margin: auto;
+}
+li{
+ list-style-type: none;
+ display: inline-block;
+ margin-left: 14px;
+}
+#skills h5{
+    text-align: center;
+}
+#skills{
+    margin-top: 50px;
+    background-color: blanchedalmond;
+    border: purple 2px solid;
+}
+.social{
+    height: 20px;
+    width: -6px;
+}
+#trainee1{
+    background-color: darkseagreen;
+}
+#trainee2{
+    background-color: darkseagreen;
+}
+#job{
+    background-color: lavender;
+}
+#internship{
+    background-color: lavender;
+}
+#internship h5{
+    text-align: center;
+}
